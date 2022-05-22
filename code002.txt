@@ -1,3 +1,4 @@
 #!/bin/bash
 
 echo "This is Second Code File"
+echo "issues are rectified"
